@@ -1,0 +1,15 @@
+{
+    "c97e0385-c138-479b-89fa-49f81a332603": {
+        "session_id": "c97e0385-c138-479b-89fa-49f81a332603",
+        "title": "string",
+        "description": "string",
+        "created_at": "2025-08-09 13:42:38.718559",
+        "last_activity": "2025-08-09 13:42:38.718562",
+        "message_count": 0,
+        "total_tokens": 0,
+        "project_tags": [],
+        "persona_id": "string",
+        "is_active": true,
+        "auto_resume": true
+    }
+}
